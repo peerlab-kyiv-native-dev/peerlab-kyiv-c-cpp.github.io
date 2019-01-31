@@ -5,7 +5,7 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/peerLab_Kyiv_Native_logo.png"
+  logo: "/images/peerLab_kyiv_native_logo.jpg"
   # author will appear under the avatar (optional)
   author: "PeerLab Kyiv NativeDev"
   # tagline will appear under the title (optional)
