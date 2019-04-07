@@ -9,7 +9,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "PeerLab Kyiv NativeDev"
   # tagline will appear under the title (optional)
-  tagline: "⇒ Focused on <b>C/C++/Rust</b>, <br>⇒ local cell of global <a href='https://peerlab.community'>peerlab.community</a>. <br>⇒ Member of <br> <a href='https://www.meetup.com/Native-Developers-in-UA/'>Native Developers in UA</a> "
+  tagline: "⇒ Focused on <b>C/C++/Rust</b> <br>⇒ local cell of global <a href='https://peerlab.community'>peerlab.community</a> <br>⇒ Member of <br> <a href='https://www.meetup.com/Native-Developers-in-UA/'>Native Developers in UA</a> "
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
