@@ -7,7 +7,7 @@ compass:
   # an avatar or logo (optional)
   logo: "/images/peerLab_kyiv_native_logo.jpg"
   # author will appear under the avatar (optional)
-  author: "PeerLab Kyiv NativeDev"
+  author: "PeerLab Kyiv C/C++"
   # tagline will appear under the title (optional)
   tagline: "⇒ Focused on <b>C/C++</b> <br>⇒ local cell of global <a href='https://peerlab.community'>peerlab.community</a> <br>"
   # if include_content is true, the contents of the content.html include will be
